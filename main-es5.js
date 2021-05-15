@@ -2970,7 +2970,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-blog"]],
       decls: 34,
       vars: 3,
-      consts: [[1, "titleBlog"], ["href", "https://github.com/joscha-sattler/Blog", "target", "_blank"], ["alt", "GitHub", 3, "src"], [1, "slider"], [3, "collection", "startbild"], [1, "info"], [1, "skillscontainer"], ["id", "frameworks", 1, "elementImElternContainer"], [1, "content"], ["src", "assets/angular.png", "alt", "Angular"], ["src", "assets/typescript.png", "alt", "TypeScript"], ["src", "assets/scss.jpg", "alt", "SCSS"], ["src", "assets/mongodb-logo.png", "alt", "MongoDB"], ["src", "assets/bootstrap.png", "alt", "Bootstrap"]],
+      consts: [[1, "titleBlog"], ["href", "https://github.com/joscha-sattler/Blog", "target", "_blank"], ["alt", "GitHub", 3, "src"], [1, "slider"], [3, "collection", "startbild"], [1, "info"], [1, "skillscontainer"], ["id", "frameworks", 1, "elementImElternContainer"], [1, "content"], ["src", "assets/angular.png", "alt", "Angular"], ["src", "assets/typescript.png", "alt", "TypeScript"], ["src", "assets/logoCSS.png", "alt", "CSS3"], ["src", "assets/mongodb-logo.png", "alt", "MongoDB"], ["src", "assets/bootstrap.png", "alt", "Bootstrap"]],
       template: function BlogComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -3041,7 +3041,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "figcaption");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "SCSS");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "CSS3");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
