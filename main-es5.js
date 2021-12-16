@@ -242,7 +242,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         }
       },
-      styles: [".titleKontakt[_ngcontent-%COMP%] {\n  margin-top: 75px;\n  margin-bottom: 50px;\n  text-align: center;\n}\n\n.kontaktContainer[_ngcontent-%COMP%] {\n  display: flex;\n  flex-direction: row;\n  font-size: 2.4rem;\n  align-items: center;\n  justify-content: center;\n  gap: 5rem;\n  margin-bottom: 2rem;\n}\n\na[_ngcontent-%COMP%] {\n  text-decoration: none;\n  color: white;\n}\n\na[_ngcontent-%COMP%]:hover {\n  text-decoration: underline;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvQ29tcG9uZW50cy9rb250YWt0L0Q6XFxEZXNrdG9wXFxXZWJEZXZcXDJfQW5ndWxhci1Qcm9qZWt0ZVxcUG9ydGZvbGlvL3NyY1xcYXBwXFxDb21wb25lbnRzXFxrb250YWt0XFxrb250YWt0LmNvbXBvbmVudC5zY3NzIiwic3JjL2FwcC9Db21wb25lbnRzL2tvbnRha3Qva29udGFrdC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGdCQUFBO0VBQ0EsbUJBQUE7RUFDQSxrQkFBQTtBQ0NGOztBREVBO0VBQ0UsYUFBQTtFQUNBLG1CQUFBO0VBQ0EsaUJBQUE7RUFDQSxtQkFBQTtFQUNBLHVCQUFBO0VBQ0EsU0FBQTtFQUNBLG1CQUFBO0FDQ0Y7O0FERUE7RUFDRSxxQkFBQTtFQUNBLFlBQUE7QUNDRjs7QURFQTtFQUNFLDBCQUFBO0FDQ0YiLCJmaWxlIjoic3JjL2FwcC9Db21wb25lbnRzL2tvbnRha3Qva29udGFrdC5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi50aXRsZUtvbnRha3Qge1xuICBtYXJnaW4tdG9wOiA3NXB4O1xuICBtYXJnaW4tYm90dG9tOiA1MHB4O1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbi5rb250YWt0Q29udGFpbmVyIHtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleC1kaXJlY3Rpb246IHJvdztcbiAgZm9udC1zaXplOiAyLjRyZW07XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBnYXA6IDVyZW07XG4gIG1hcmdpbi1ib3R0b206IDJyZW07XG59XG5cbmEge1xuICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XG4gIGNvbG9yOiB3aGl0ZTtcbn1cblxuYTpob3ZlciB7XG4gIHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lO1xufVxuIiwiLnRpdGxlS29udGFrdCB7XG4gIG1hcmdpbi10b3A6IDc1cHg7XG4gIG1hcmdpbi1ib3R0b206IDUwcHg7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLmtvbnRha3RDb250YWluZXIge1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbGV4LWRpcmVjdGlvbjogcm93O1xuICBmb250LXNpemU6IDIuNHJlbTtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gIGdhcDogNXJlbTtcbiAgbWFyZ2luLWJvdHRvbTogMnJlbTtcbn1cblxuYSB7XG4gIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgY29sb3I6IHdoaXRlO1xufVxuXG5hOmhvdmVyIHtcbiAgdGV4dC1kZWNvcmF0aW9uOiB1bmRlcmxpbmU7XG59Il19 */"]
+      styles: [".titleKontakt[_ngcontent-%COMP%] {\n  margin-top: 75px;\n  margin-bottom: 35px;\n  text-align: center;\n}\n\n.kontaktContainer[_ngcontent-%COMP%] {\n  display: flex;\n  flex-direction: row;\n  font-size: 2.4rem;\n  align-items: center;\n  justify-content: center;\n  gap: 5rem;\n  margin-bottom: 2rem;\n}\n\na[_ngcontent-%COMP%] {\n  text-decoration: none;\n  color: white;\n}\n\na[_ngcontent-%COMP%]:hover {\n  text-decoration: underline;\n}\n\n@media (max-width: 950px) {\n  .kontaktContainer[_ngcontent-%COMP%] {\n    flex-direction: column;\n    gap: 2rem;\n  }\n\n  .titleKontakt[_ngcontent-%COMP%] {\n    margin-bottom: 20px;\n  }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvQ29tcG9uZW50cy9rb250YWt0L0Q6XFxEZXNrdG9wXFxXZWJEZXZcXDJfQW5ndWxhci1Qcm9qZWt0ZVxcUG9ydGZvbGlvL3NyY1xcYXBwXFxDb21wb25lbnRzXFxrb250YWt0XFxrb250YWt0LmNvbXBvbmVudC5zY3NzIiwic3JjL2FwcC9Db21wb25lbnRzL2tvbnRha3Qva29udGFrdC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGdCQUFBO0VBQ0EsbUJBQUE7RUFDQSxrQkFBQTtBQ0NGOztBREVBO0VBQ0UsYUFBQTtFQUNBLG1CQUFBO0VBQ0EsaUJBQUE7RUFDQSxtQkFBQTtFQUNBLHVCQUFBO0VBQ0EsU0FBQTtFQUNBLG1CQUFBO0FDQ0Y7O0FERUE7RUFDRSxxQkFBQTtFQUNBLFlBQUE7QUNDRjs7QURFQTtFQUNFLDBCQUFBO0FDQ0Y7O0FESUE7RUFDRTtJQUNFLHNCQUFBO0lBQ0EsU0FBQTtFQ0RGOztFREdBO0lBQ0UsbUJBQUE7RUNBRjtBQUNGIiwiZmlsZSI6InNyYy9hcHAvQ29tcG9uZW50cy9rb250YWt0L2tvbnRha3QuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIudGl0bGVLb250YWt0IHtcbiAgbWFyZ2luLXRvcDogNzVweDtcbiAgbWFyZ2luLWJvdHRvbTogMzVweDtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xufVxuXG4ua29udGFrdENvbnRhaW5lciB7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiByb3c7XG4gIGZvbnQtc2l6ZTogMi40cmVtO1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgZ2FwOiA1cmVtO1xuICBtYXJnaW4tYm90dG9tOiAycmVtO1xufVxuXG5hIHtcbiAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xuICBjb2xvcjogd2hpdGU7XG59XG5cbmE6aG92ZXIge1xuICB0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTtcbn1cblxuLy8gQmVpIGtsZWluZXJlbSBCaWxkc2NoaXJtXG5cbkBtZWRpYSAobWF4LXdpZHRoOiA5NTBweCkge1xuICAua29udGFrdENvbnRhaW5lciB7XG4gICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAgICBnYXA6IDJyZW07XG4gIH1cbiAgLnRpdGxlS29udGFrdCB7XG4gICAgbWFyZ2luLWJvdHRvbTogMjBweDtcbiAgfVxufVxuIiwiLnRpdGxlS29udGFrdCB7XG4gIG1hcmdpbi10b3A6IDc1cHg7XG4gIG1hcmdpbi1ib3R0b206IDM1cHg7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLmtvbnRha3RDb250YWluZXIge1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbGV4LWRpcmVjdGlvbjogcm93O1xuICBmb250LXNpemU6IDIuNHJlbTtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gIGdhcDogNXJlbTtcbiAgbWFyZ2luLWJvdHRvbTogMnJlbTtcbn1cblxuYSB7XG4gIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcbiAgY29sb3I6IHdoaXRlO1xufVxuXG5hOmhvdmVyIHtcbiAgdGV4dC1kZWNvcmF0aW9uOiB1bmRlcmxpbmU7XG59XG5cbkBtZWRpYSAobWF4LXdpZHRoOiA5NTBweCkge1xuICAua29udGFrdENvbnRhaW5lciB7XG4gICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAgICBnYXA6IDJyZW07XG4gIH1cblxuICAudGl0bGVLb250YWt0IHtcbiAgICBtYXJnaW4tYm90dG9tOiAyMHB4O1xuICB9XG59Il19 */"]
     });
     /*@__PURE__*/
 
@@ -3120,6 +3120,276 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   },
 
   /***/
+  "./src/app/Components/projekte/webentwicklung/kino/kino.component.ts":
+  /*!***************************************************************************!*\
+    !*** ./src/app/Components/projekte/webentwicklung/kino/kino.component.ts ***!
+    \***************************************************************************/
+
+  /*! exports provided: KinoComponent */
+
+  /***/
+  function srcAppComponentsProjekteWebentwicklungKinoKinoComponentTs(module, __webpack_exports__, __webpack_require__) {
+    "use strict";
+
+    __webpack_require__.r(__webpack_exports__);
+    /* harmony export (binding) */
+
+
+    __webpack_require__.d(__webpack_exports__, "KinoComponent", function () {
+      return KinoComponent;
+    });
+    /* harmony import */
+
+
+    var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
+    /*! @angular/core */
+    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
+    /* harmony import */
+
+
+    var _services_modeToggle_service__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! ../../../../../services/modeToggle.service */
+    "./src/services/modeToggle.service.ts");
+    /* harmony import */
+
+
+    var _my_slider_my_slider_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    /*! ../../../my-slider/my-slider.component */
+    "./src/app/Components/my-slider/my-slider.component.ts");
+
+    var KinoComponent = /*#__PURE__*/function () {
+      function KinoComponent(toggle) {
+        _classCallCheck(this, KinoComponent);
+
+        this.toggle = toggle; // Bilder-Galerie zum Verein
+
+        this.startbild = {
+          img: 'assets/kino/01_startseite.png',
+          titel: 'Kino - Startseite',
+          nummer: 0
+        };
+        this.bilder = [{
+          img: 'assets/kino/02_filtered_filme.png',
+          titel: 'Filtert nach Fantasy',
+          nummer: 1
+        }, {
+          img: 'assets/kino/03_account_kunde.png',
+          titel: 'Kunden-Account erstellen',
+          nummer: 2
+        }, {
+          img: 'assets/kino/05_edit_account.png',
+          titel: 'Account bearbeiten',
+          nummer: 3
+        }, {
+          img: 'assets/kino/06_url_sicher.png',
+          titel: 'URL manipulation - sicher',
+          nummer: 4
+        }, {
+          img: 'assets/kino/07_zu_jung.png',
+          titel: 'User zu jung für Django',
+          nummer: 5
+        }, {
+          img: 'assets/kino/08_film_details_1.1.png',
+          titel: 'Film Details 1/2',
+          nummer: 6
+        }, {
+          img: 'assets/kino/09_film_details_1.2.png',
+          titel: 'Film Details 2/2',
+          nummer: 7
+        }, {
+          img: 'assets/kino/13_ticket_kaufen.png',
+          titel: 'Ticket kaufen',
+          nummer: 8
+        }, {
+          img: 'assets/kino/14_ticket_erfolgreich.png',
+          titel: 'Ticketkauf bestätigung',
+          nummer: 9
+        }, {
+          img: 'assets/kino/15_ticket_verlauf.png',
+          titel: 'Ticketverlauf',
+          nummer: 10
+        }, {
+          img: 'assets/kino/04_account_mitarbeiter.png',
+          titel: 'Mitarbeiter Account erstellen',
+          nummer: 11
+        }, {
+          img: 'assets/kino/10_admin_view.png',
+          titel: 'Mitarbeiter Startseite',
+          nummer: 12
+        }, {
+          img: 'assets/kino/11_film_hinzufuegen.png',
+          titel: 'Film hinzufügen',
+          nummer: 13
+        }, {
+          img: 'assets/kino/12_film_bearbeiten.png',
+          titel: 'Film bearbeiten, aktuelle Daten bereits in Form',
+          nummer: 14
+        }];
+      }
+
+      _createClass(KinoComponent, [{
+        key: "ngOnInit",
+        value: function ngOnInit() {}
+      }]);
+
+      return KinoComponent;
+    }();
+
+    KinoComponent.ɵfac = function KinoComponent_Factory(t) {
+      return new (t || KinoComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_services_modeToggle_service__WEBPACK_IMPORTED_MODULE_1__["ModeToggleService"]));
+    };
+
+    KinoComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
+      type: KinoComponent,
+      selectors: [["app-kino"]],
+      decls: 34,
+      vars: 3,
+      consts: [[1, "titleKino"], ["href", "https://github.com/joscha-sat/DB-Webdev", "target", "_blank"], ["alt", "GitHub", 3, "src"], [1, "slider"], [3, "collection", "startbild"], [1, "info"], [1, "skillscontainer"], ["id", "frameworks", 1, "elementImElternContainer"], [1, "content"], ["alt", "Angular", "src", "assets/angular.png"], ["alt", "TypeScript", "src", "assets/typescript.png"], ["alt", "SCSS", "src", "assets/scss.png"], ["alt", "MySQL", "src", "assets/mysql_PNG23.png"], ["alt", "Bootstrap", "src", "assets/bulma.png"]],
+      template: function KinoComponent_Template(rf, ctx) {
+        if (rf & 1) {
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h1");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Kino");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "a", 1);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](4, "img", 2);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "div", 3);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](6, "app-my-slider", 4);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 5);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "details");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "summary");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, "Genutzte Tools");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 6);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "div", 7);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "div", 8);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "figure");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](15, "img", 9);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "figcaption");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, "Angular");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "figure");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](19, "img", 10);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "figcaption");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "Typescript");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "figure");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](23, "img", 11);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "figcaption");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "SCSS");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "figure");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](27, "img", 12);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "figcaption");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](29, "MySQL");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "figure");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](31, "img", 13);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "figcaption");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](33, "Bulma");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        }
+
+        if (rf & 2) {
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](4);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("src", ctx.toggle.gitHub, _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵsanitizeUrl"]);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("collection", ctx.bilder)("startbild", ctx.startbild);
+        }
+      },
+      directives: [_my_slider_my_slider_component__WEBPACK_IMPORTED_MODULE_2__["MySliderComponent"]],
+      styles: [".titleKino[_ngcontent-%COMP%] {\n  margin-top: 75px;\n  margin-bottom: 50px;\n  text-align: center;\n  display: flex;\n  flex-direction: row;\n  justify-content: center;\n  align-items: center;\n}\n.titleKino[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\n  margin-left: 25px;\n  height: 75px;\n}\n.titleKino[_ngcontent-%COMP%]   img[_ngcontent-%COMP%]:hover {\n  cursor: pointer;\n}\nfigure[_ngcontent-%COMP%] {\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n}\n.bilder[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\n  max-height: 75px;\n  -o-object-fit: cover;\n     object-fit: cover;\n}\nfigcaption[_ngcontent-%COMP%] {\n  text-align: center;\n  padding: 10px;\n  color: white;\n}\n.skillscontainer[_ngcontent-%COMP%]   figure[_ngcontent-%COMP%] {\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n  width: 175px;\n}\n.skillscontainer[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\n  max-height: 75px;\n  -o-object-fit: cover;\n     object-fit: cover;\n}\n.skillscontainer[_ngcontent-%COMP%]   figcaption[_ngcontent-%COMP%] {\n  text-align: center;\n  padding: 10px;\n  color: var(--text);\n}\n.skillscontainer[_ngcontent-%COMP%]   .content[_ngcontent-%COMP%] {\n  margin-top: 25px;\n  color: white;\n  display: flex;\n  flex-wrap: wrap;\n  align-items: center;\n  justify-content: center;\n}\n.info[_ngcontent-%COMP%] {\n  margin: auto;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  margin-bottom: 2.5rem;\n}\n.skillscontainer[_ngcontent-%COMP%]   figure[_ngcontent-%COMP%] {\n  display: flex;\n  flex-direction: column;\n  justify-content: center;\n  align-items: center;\n  width: 175px;\n}\n.skillscontainer[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\n  max-height: 75px;\n  -o-object-fit: cover;\n     object-fit: cover;\n}\n.skillscontainer[_ngcontent-%COMP%]   figcaption[_ngcontent-%COMP%] {\n  text-align: center;\n  padding: 10px;\n  color: var(--text);\n}\n.skillscontainer[_ngcontent-%COMP%]   .content[_ngcontent-%COMP%] {\n  margin-top: 25px;\n  color: white;\n  display: flex;\n  flex-wrap: wrap;\n  align-items: center;\n  justify-content: center;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvQ29tcG9uZW50cy9wcm9qZWt0ZS93ZWJlbnR3aWNrbHVuZy9raW5vL0Q6XFxEZXNrdG9wXFxXZWJEZXZcXDJfQW5ndWxhci1Qcm9qZWt0ZVxcUG9ydGZvbGlvL3NyY1xcYXBwXFxDb21wb25lbnRzXFxwcm9qZWt0ZVxcd2ViZW50d2lja2x1bmdcXGtpbm9cXGtpbm8uY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL0NvbXBvbmVudHMvcHJvamVrdGUvd2ViZW50d2lja2x1bmcva2luby9raW5vLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLGtCQUFBO0VBQ0EsYUFBQTtFQUNBLG1CQUFBO0VBQ0EsdUJBQUE7RUFDQSxtQkFBQTtBQ0NGO0FEQ0U7RUFDRSxpQkFBQTtFQUNBLFlBQUE7QUNDSjtBRENJO0VBQ0UsZUFBQTtBQ0NOO0FETUE7RUFDRSxhQUFBO0VBQ0Esc0JBQUE7RUFDQSx1QkFBQTtFQUNBLG1CQUFBO0FDSEY7QURNQTtFQUNFLGdCQUFBO0VBQ0Esb0JBQUE7S0FBQSxpQkFBQTtBQ0hGO0FETUE7RUFDRSxrQkFBQTtFQUNBLGFBQUE7RUFDQSxZQUFBO0FDSEY7QURTRTtFQUNFLGFBQUE7RUFDQSxzQkFBQTtFQUNBLHVCQUFBO0VBQ0EsbUJBQUE7RUFFQSxZQUFBO0FDUEo7QURVRTtFQUNFLGdCQUFBO0VBQ0Esb0JBQUE7S0FBQSxpQkFBQTtBQ1JKO0FEV0U7RUFDRSxrQkFBQTtFQUNBLGFBQUE7RUFDQSxrQkFBQTtBQ1RKO0FEY0U7RUFDRSxnQkFBQTtFQUNBLFlBQUE7RUFFQSxhQUFBO0VBQ0EsZUFBQTtFQUVBLG1CQUFBO0VBQ0EsdUJBQUE7QUNkSjtBRGtCQTtFQUNFLFlBQUE7RUFDQSxhQUFBO0VBQ0EsdUJBQUE7RUFDQSxtQkFBQTtFQUNBLHFCQUFBO0FDZkY7QURxQkU7RUFDRSxhQUFBO0VBQ0Esc0JBQUE7RUFDQSx1QkFBQTtFQUNBLG1CQUFBO0VBRUEsWUFBQTtBQ25CSjtBRHNCRTtFQUNFLGdCQUFBO0VBQ0Esb0JBQUE7S0FBQSxpQkFBQTtBQ3BCSjtBRHVCRTtFQUNFLGtCQUFBO0VBQ0EsYUFBQTtFQUNBLGtCQUFBO0FDckJKO0FEMEJFO0VBQ0UsZ0JBQUE7RUFDQSxZQUFBO0VBRUEsYUFBQTtFQUNBLGVBQUE7RUFFQSxtQkFBQTtFQUNBLHVCQUFBO0FDMUJKIiwiZmlsZSI6InNyYy9hcHAvQ29tcG9uZW50cy9wcm9qZWt0ZS93ZWJlbnR3aWNrbHVuZy9raW5vL2tpbm8uY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIudGl0bGVLaW5vIHtcbiAgbWFyZ2luLXRvcDogNzVweDtcbiAgbWFyZ2luLWJvdHRvbTogNTBweDtcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbGV4LWRpcmVjdGlvbjogcm93O1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcblxuICBpbWcge1xuICAgIG1hcmdpbi1sZWZ0OiAyNXB4O1xuICAgIGhlaWdodDogNzVweDtcblxuICAgICY6aG92ZXIge1xuICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgIH1cbiAgfVxufVxuXG4vLyBJbWFnZS1TdHVmZlxuXG5maWd1cmUge1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbn1cblxuLmJpbGRlciBpbWcge1xuICBtYXgtaGVpZ2h0OiA3NXB4O1xuICBvYmplY3QtZml0OiBjb3Zlcjtcbn1cblxuZmlnY2FwdGlvbiB7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgcGFkZGluZzogMTBweDtcbiAgY29sb3I6IHdoaXRlO1xufVxuXG4uc2tpbGxzY29udGFpbmVyIHtcbiAgLy8gSW1hZ2UtU3R1ZmYgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAvL1xuXG4gIGZpZ3VyZSB7XG4gICAgZGlzcGxheTogZmxleDtcbiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG5cbiAgICB3aWR0aDogMTc1cHg7XG4gIH1cblxuICBpbWcge1xuICAgIG1heC1oZWlnaHQ6IDc1cHg7XG4gICAgb2JqZWN0LWZpdDogY292ZXI7XG4gIH1cblxuICBmaWdjYXB0aW9uIHtcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgcGFkZGluZzogMTBweDtcbiAgICBjb2xvcjogdmFyKC0tdGV4dCk7XG4gIH1cblxuICAvLyBDb250ZW50IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gLy9cblxuICAuY29udGVudCB7XG4gICAgbWFyZ2luLXRvcDogMjVweDtcbiAgICBjb2xvcjogd2hpdGU7XG5cbiAgICBkaXNwbGF5OiBmbGV4O1xuICAgIGZsZXgtd3JhcDogd3JhcDtcblxuICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gIH1cbn1cblxuLmluZm8ge1xuICBtYXJnaW46IGF1dG87XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICBtYXJnaW4tYm90dG9tOiAyLjVyZW07XG59XG5cbi5za2lsbHNjb250YWluZXIge1xuICAvLyBJbWFnZS1TdHVmZiAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIC8vXG5cbiAgZmlndXJlIHtcbiAgICBkaXNwbGF5OiBmbGV4O1xuICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcblxuICAgIHdpZHRoOiAxNzVweDtcbiAgfVxuXG4gIGltZyB7XG4gICAgbWF4LWhlaWdodDogNzVweDtcbiAgICBvYmplY3QtZml0OiBjb3ZlcjtcbiAgfVxuXG4gIGZpZ2NhcHRpb24ge1xuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICBwYWRkaW5nOiAxMHB4O1xuICAgIGNvbG9yOiB2YXIoLS10ZXh0KTtcbiAgfVxuXG4gIC8vIENvbnRlbnQgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAvL1xuXG4gIC5jb250ZW50IHtcbiAgICBtYXJnaW4tdG9wOiAyNXB4O1xuICAgIGNvbG9yOiB3aGl0ZTtcblxuICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgZmxleC13cmFwOiB3cmFwO1xuXG4gICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgfVxufVxuIiwiLnRpdGxlS2lubyB7XG4gIG1hcmdpbi10b3A6IDc1cHg7XG4gIG1hcmdpbi1ib3R0b206IDUwcHg7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleC1kaXJlY3Rpb246IHJvdztcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG59XG4udGl0bGVLaW5vIGltZyB7XG4gIG1hcmdpbi1sZWZ0OiAyNXB4O1xuICBoZWlnaHQ6IDc1cHg7XG59XG4udGl0bGVLaW5vIGltZzpob3ZlciB7XG4gIGN1cnNvcjogcG9pbnRlcjtcbn1cblxuZmlndXJlIHtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG59XG5cbi5iaWxkZXIgaW1nIHtcbiAgbWF4LWhlaWdodDogNzVweDtcbiAgb2JqZWN0LWZpdDogY292ZXI7XG59XG5cbmZpZ2NhcHRpb24ge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gIHBhZGRpbmc6IDEwcHg7XG4gIGNvbG9yOiB3aGl0ZTtcbn1cblxuLnNraWxsc2NvbnRhaW5lciBmaWd1cmUge1xuICBkaXNwbGF5OiBmbGV4O1xuICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgd2lkdGg6IDE3NXB4O1xufVxuLnNraWxsc2NvbnRhaW5lciBpbWcge1xuICBtYXgtaGVpZ2h0OiA3NXB4O1xuICBvYmplY3QtZml0OiBjb3Zlcjtcbn1cbi5za2lsbHNjb250YWluZXIgZmlnY2FwdGlvbiB7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgcGFkZGluZzogMTBweDtcbiAgY29sb3I6IHZhcigtLXRleHQpO1xufVxuLnNraWxsc2NvbnRhaW5lciAuY29udGVudCB7XG4gIG1hcmdpbi10b3A6IDI1cHg7XG4gIGNvbG9yOiB3aGl0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleC13cmFwOiB3cmFwO1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbn1cblxuLmluZm8ge1xuICBtYXJnaW46IGF1dG87XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBhbGlnbi1pdGVtczogY2VudGVyO1xuICBtYXJnaW4tYm90dG9tOiAyLjVyZW07XG59XG5cbi5za2lsbHNjb250YWluZXIgZmlndXJlIHtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gIHdpZHRoOiAxNzVweDtcbn1cbi5za2lsbHNjb250YWluZXIgaW1nIHtcbiAgbWF4LWhlaWdodDogNzVweDtcbiAgb2JqZWN0LWZpdDogY292ZXI7XG59XG4uc2tpbGxzY29udGFpbmVyIGZpZ2NhcHRpb24ge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gIHBhZGRpbmc6IDEwcHg7XG4gIGNvbG9yOiB2YXIoLS10ZXh0KTtcbn1cbi5za2lsbHNjb250YWluZXIgLmNvbnRlbnQge1xuICBtYXJnaW4tdG9wOiAyNXB4O1xuICBjb2xvcjogd2hpdGU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtd3JhcDogd3JhcDtcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG59Il19 */"]
+    });
+    /*@__PURE__*/
+
+    (function () {
+      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](KinoComponent, [{
+        type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
+        args: [{
+          selector: 'app-kino',
+          templateUrl: './kino.component.html',
+          styleUrls: ['./kino.component.scss']
+        }]
+      }], function () {
+        return [{
+          type: _services_modeToggle_service__WEBPACK_IMPORTED_MODULE_1__["ModeToggleService"]
+        }];
+      }, null);
+    })();
+    /***/
+
+  },
+
+  /***/
   "./src/app/Components/projekte/webentwicklung/verein/verein.component.ts":
   /*!*******************************************************************************!*\
     !*** ./src/app/Components/projekte/webentwicklung/verein/verein.component.ts ***!
@@ -3408,24 +3678,36 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _verein_verein_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! ./verein/verein.component */
     "./src/app/Components/projekte/webentwicklung/verein/verein.component.ts");
+    /* harmony import */
+
+
+    var _kino_kino_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(
+    /*! ./kino/kino.component */
+    "./src/app/Components/projekte/webentwicklung/kino/kino.component.ts");
 
     var _c0 = ["goto"];
 
-    function WebentwicklungComponent_app_blog_17_Template(rf, ctx) {
+    function WebentwicklungComponent_app_blog_21_Template(rf, ctx) {
       if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "app-blog");
       }
     }
 
-    function WebentwicklungComponent_app_verein_19_Template(rf, ctx) {
+    function WebentwicklungComponent_app_verein_23_Template(rf, ctx) {
       if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "app-verein");
       }
     }
 
-    function WebentwicklungComponent_div_20_Template(rf, ctx) {
+    function WebentwicklungComponent_app_kino_25_Template(rf, ctx) {
       if (rf & 1) {
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 10);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "app-kino");
+      }
+    }
+
+    function WebentwicklungComponent_div_26_Template(rf, ctx) {
+      if (rf & 1) {
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 12);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h2");
 
@@ -3443,6 +3725,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         this.blog = false;
         this.verein = false;
+        this.kino = false;
       }
 
       _createClass(WebentwicklungComponent, [{
@@ -3454,9 +3737,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           var _this11 = this;
 
           this.verein = false;
+          this.kino = false;
           this.blog = true;
           document.getElementById('blog').classList.add('figureClick');
           document.getElementById('verein').classList.remove('figureClick');
+          document.getElementById('kino').classList.remove('figureClick');
           setTimeout(function () {
             _this11["goto"].nativeElement.scrollIntoView({
               block: 'start'
@@ -3469,11 +3754,30 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           var _this12 = this;
 
           this.blog = false;
+          this.kino = false;
           this.verein = true;
-          document.getElementById('blog').classList.remove('figureClick');
           document.getElementById('verein').classList.add('figureClick');
+          document.getElementById('blog').classList.remove('figureClick');
+          document.getElementById('kino').classList.remove('figureClick');
           setTimeout(function () {
             _this12["goto"].nativeElement.scrollIntoView({
+              block: 'start'
+            });
+          }, 200);
+        }
+      }, {
+        key: "toggleKino",
+        value: function toggleKino() {
+          var _this13 = this;
+
+          this.blog = false;
+          this.kino = true;
+          this.verein = false;
+          document.getElementById('kino').classList.add('figureClick');
+          document.getElementById('verein').classList.remove('figureClick');
+          document.getElementById('blog').classList.remove('figureClick');
+          setTimeout(function () {
+            _this13["goto"].nativeElement.scrollIntoView({
               block: 'start'
             });
           }, 200);
@@ -3501,9 +3805,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵqueryRefresh"](_t = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵloadQuery"]()) && (ctx["goto"] = _t.first);
         }
       },
-      decls: 21,
-      vars: 3,
-      consts: [[1, "titleWebdev"], [1, "WebdevContainer"], ["id", "blog", 1, "figure", 3, "click"], ["src", "assets/blog.jpg", "alt", "Blog"], ["id", "verein", 1, "figure", 3, "click"], ["src", "assets/verein.png", "alt", "Verein"], [1, "projekte"], ["goto", ""], [4, "ngIf"], ["class", "pick", 4, "ngIf"], [1, "pick"]],
+      decls: 27,
+      vars: 4,
+      consts: [[1, "titleWebdev"], [1, "WebdevContainer"], ["id", "blog", 1, "figure", 3, "click"], ["alt", "Blog", "src", "assets/blog.jpg"], ["id", "verein", 1, "figure", 3, "click"], ["alt", "Verein", "src", "assets/verein.png"], ["id", "kino", 1, "figure", 3, "click"], ["alt", "Verein", "src", "assets/kino/kino_wallpaper.jpg"], [1, "projekte"], ["goto", ""], [4, "ngIf"], ["class", "pick", 4, "ngIf"], [1, "pick"]],
       template: function WebentwicklungComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -3554,27 +3858,49 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "figure", 6);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function WebentwicklungComponent_Template_figure_click_14_listener() {
+            return ctx.toggleKino();
+          });
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](15, "img", 7);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "figcaption");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, "Kino");
+
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](14, "hr");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div", 6, 7);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](17, WebentwicklungComponent_app_blog_17_Template, 1, 0, "app-blog", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](19, WebentwicklungComponent_app_verein_19_Template, 1, 0, "app-verein", 8);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](20, WebentwicklungComponent_div_20_Template, 3, 0, "div", 9);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](18, "hr");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "div", 8, 9);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](21, WebentwicklungComponent_app_blog_21_Template, 1, 0, "app-blog", 10);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "div");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](23, WebentwicklungComponent_app_verein_23_Template, 1, 0, "app-verein", 10);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "div");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](25, WebentwicklungComponent_app_kino_25_Template, 1, 0, "app-kino", 10);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](26, WebentwicklungComponent_div_26_Template, 3, 0, "div", 11);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         }
 
         if (rf & 2) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](17);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](21);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.blog);
 
@@ -3582,12 +3908,16 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.verein);
 
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", ctx.kino);
+
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](1);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", !ctx.blog && !ctx.verein);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngIf", !ctx.blog && !ctx.verein && !ctx.kino);
         }
       },
-      directives: [_angular_common__WEBPACK_IMPORTED_MODULE_1__["NgIf"], _blog_blog_component__WEBPACK_IMPORTED_MODULE_2__["BlogComponent"], _verein_verein_component__WEBPACK_IMPORTED_MODULE_3__["VereinComponent"]],
+      directives: [_angular_common__WEBPACK_IMPORTED_MODULE_1__["NgIf"], _blog_blog_component__WEBPACK_IMPORTED_MODULE_2__["BlogComponent"], _verein_verein_component__WEBPACK_IMPORTED_MODULE_3__["VereinComponent"], _kino_kino_component__WEBPACK_IMPORTED_MODULE_4__["KinoComponent"]],
       styles: [".projekte[_ngcontent-%COMP%] {\n  scroll-margin-top: 10rem;\n}\n\n.titleWebdev[_ngcontent-%COMP%] {\n  margin-top: 75px;\n  margin-bottom: 50px;\n  text-align: center;\n}\n\n.WebdevContainer[_ngcontent-%COMP%] {\n  display: grid;\n  justify-content: center;\n  grid-gap: 20px;\n  grid-auto-flow: row;\n  margin: auto;\n  grid-template-columns: repeat(auto-fit, minmax(100px, 300px));\n}\n\n.WebdevContainer[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\n  width: 100%;\n  height: 300px;\n  -o-object-fit: cover;\n     object-fit: cover;\n  border: 1px solid var(--boxShadow);\n  border-radius: 5px;\n}\n\n.pick[_ngcontent-%COMP%] {\n  margin-top: 75px;\n  margin-bottom: 25px;\n  text-align: center;\n}\n\n.figure[_ngcontent-%COMP%]:hover {\n  box-shadow: 0 0 4px 3px var(--boxShadow);\n  cursor: pointer;\n  color: var(--hover);\n}\n\n.figure[_ngcontent-%COMP%] {\n  border-radius: 5px;\n  padding: 0.75rem;\n  font-size: 2.6rem;\n  text-align: center;\n  background-color: var(--cardBack);\n  color: var(--cardBackText);\n  border: 2px solid var(--cardBorder);\n}\n\n.figureClick[_ngcontent-%COMP%] {\n  box-shadow: 0 0 4px 3px var(--hover);\n  border: none;\n  cursor: pointer;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvQ29tcG9uZW50cy9wcm9qZWt0ZS93ZWJlbnR3aWNrbHVuZy9EOlxcRGVza3RvcFxcV2ViRGV2XFwyX0FuZ3VsYXItUHJvamVrdGVcXFBvcnRmb2xpby9zcmNcXGFwcFxcQ29tcG9uZW50c1xccHJvamVrdGVcXHdlYmVudHdpY2tsdW5nXFx3ZWJlbnR3aWNrbHVuZy5jb21wb25lbnQuc2NzcyIsInNyYy9hcHAvQ29tcG9uZW50cy9wcm9qZWt0ZS93ZWJlbnR3aWNrbHVuZy93ZWJlbnR3aWNrbHVuZy5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLHdCQUFBO0FDQ0Y7O0FERUE7RUFDRSxnQkFBQTtFQUNBLG1CQUFBO0VBQ0Esa0JBQUE7QUNDRjs7QURFQTtFQUNFLGFBQUE7RUFDQSx1QkFBQTtFQUNBLGNBQUE7RUFDQSxtQkFBQTtFQUNBLFlBQUE7RUFFQSw2REFBQTtBQ0FGOztBREdBO0VBQ0UsV0FBQTtFQUNBLGFBQUE7RUFDQSxvQkFBQTtLQUFBLGlCQUFBO0VBRUEsa0NBQUE7RUFDQSxrQkFBQTtBQ0RGOztBRElBO0VBQ0UsZ0JBQUE7RUFDQSxtQkFBQTtFQUNBLGtCQUFBO0FDREY7O0FESUE7RUFDRSx3Q0FBQTtFQUNBLGVBQUE7RUFDQSxtQkFBQTtBQ0RGOztBRElBO0VBQ0Usa0JBQUE7RUFDQSxnQkFBQTtFQUNBLGlCQUFBO0VBQ0Esa0JBQUE7RUFDQSxpQ0FBQTtFQUNBLDBCQUFBO0VBRUEsbUNBQUE7QUNGRjs7QURLQTtFQUNFLG9DQUFBO0VBQ0EsWUFBQTtFQUNBLGVBQUE7QUNGRiIsImZpbGUiOiJzcmMvYXBwL0NvbXBvbmVudHMvcHJvamVrdGUvd2ViZW50d2lja2x1bmcvd2ViZW50d2lja2x1bmcuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIucHJvamVrdGUge1xyXG4gIHNjcm9sbC1tYXJnaW4tdG9wOiAxMHJlbTtcclxufVxyXG5cclxuLnRpdGxlV2ViZGV2IHtcclxuICBtYXJnaW4tdG9wOiA3NXB4O1xyXG4gIG1hcmdpbi1ib3R0b206IDUwcHg7XHJcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG4uV2ViZGV2Q29udGFpbmVyIHtcclxuICBkaXNwbGF5OiBncmlkO1xyXG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xyXG4gIGdyaWQtZ2FwOiAyMHB4O1xyXG4gIGdyaWQtYXV0by1mbG93OiByb3c7XHJcbiAgbWFyZ2luOiBhdXRvO1xyXG5cclxuICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IHJlcGVhdChhdXRvLWZpdCwgbWlubWF4KDEwMHB4LCAzMDBweCkpO1xyXG59XHJcblxyXG4uV2ViZGV2Q29udGFpbmVyIGltZyB7XHJcbiAgd2lkdGg6IDEwMCU7XHJcbiAgaGVpZ2h0OiAzMDBweDtcclxuICBvYmplY3QtZml0OiBjb3ZlcjtcclxuXHJcbiAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tYm94U2hhZG93KTtcclxuICBib3JkZXItcmFkaXVzOiA1cHg7XHJcbn1cclxuXHJcbi5waWNrIHtcclxuICBtYXJnaW4tdG9wOiA3NXB4O1xyXG4gIG1hcmdpbi1ib3R0b206IDI1cHg7XHJcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG4uZmlndXJlOmhvdmVyIHtcclxuICBib3gtc2hhZG93OiAwIDAgNHB4IDNweCB2YXIoLS1ib3hTaGFkb3cpO1xyXG4gIGN1cnNvcjogcG9pbnRlcjtcclxuICBjb2xvcjogdmFyKC0taG92ZXIpO1xyXG59XHJcblxyXG4uZmlndXJlIHtcclxuICBib3JkZXItcmFkaXVzOiA1cHg7XHJcbiAgcGFkZGluZzogMC43NXJlbTtcclxuICBmb250LXNpemU6IDIuNnJlbTtcclxuICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tY2FyZEJhY2spO1xyXG4gIGNvbG9yOiB2YXIoLS1jYXJkQmFja1RleHQpO1xyXG5cclxuICBib3JkZXI6IDJweCBzb2xpZCB2YXIoLS1jYXJkQm9yZGVyKTtcclxufVxyXG5cclxuLmZpZ3VyZUNsaWNrIHtcclxuICBib3gtc2hhZG93OiAwIDAgNHB4IDNweCB2YXIoLS1ob3Zlcik7XHJcbiAgYm9yZGVyOiBub25lO1xyXG4gIGN1cnNvcjogcG9pbnRlcjtcclxufVxyXG4iLCIucHJvamVrdGUge1xuICBzY3JvbGwtbWFyZ2luLXRvcDogMTByZW07XG59XG5cbi50aXRsZVdlYmRldiB7XG4gIG1hcmdpbi10b3A6IDc1cHg7XG4gIG1hcmdpbi1ib3R0b206IDUwcHg7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLldlYmRldkNvbnRhaW5lciB7XG4gIGRpc3BsYXk6IGdyaWQ7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICBncmlkLWdhcDogMjBweDtcbiAgZ3JpZC1hdXRvLWZsb3c6IHJvdztcbiAgbWFyZ2luOiBhdXRvO1xuICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IHJlcGVhdChhdXRvLWZpdCwgbWlubWF4KDEwMHB4LCAzMDBweCkpO1xufVxuXG4uV2ViZGV2Q29udGFpbmVyIGltZyB7XG4gIHdpZHRoOiAxMDAlO1xuICBoZWlnaHQ6IDMwMHB4O1xuICBvYmplY3QtZml0OiBjb3ZlcjtcbiAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tYm94U2hhZG93KTtcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xufVxuXG4ucGljayB7XG4gIG1hcmdpbi10b3A6IDc1cHg7XG4gIG1hcmdpbi1ib3R0b206IDI1cHg7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cblxuLmZpZ3VyZTpob3ZlciB7XG4gIGJveC1zaGFkb3c6IDAgMCA0cHggM3B4IHZhcigtLWJveFNoYWRvdyk7XG4gIGN1cnNvcjogcG9pbnRlcjtcbiAgY29sb3I6IHZhcigtLWhvdmVyKTtcbn1cblxuLmZpZ3VyZSB7XG4gIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgcGFkZGluZzogMC43NXJlbTtcbiAgZm9udC1zaXplOiAyLjZyZW07XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tY2FyZEJhY2spO1xuICBjb2xvcjogdmFyKC0tY2FyZEJhY2tUZXh0KTtcbiAgYm9yZGVyOiAycHggc29saWQgdmFyKC0tY2FyZEJvcmRlcik7XG59XG5cbi5maWd1cmVDbGljayB7XG4gIGJveC1zaGFkb3c6IDAgMCA0cHggM3B4IHZhcigtLWhvdmVyKTtcbiAgYm9yZGVyOiBub25lO1xuICBjdXJzb3I6IHBvaW50ZXI7XG59Il19 */"]
     });
     /*@__PURE__*/
@@ -3659,9 +3989,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     SkillsComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
       type: SkillsComponent,
       selectors: [["app-skills"]],
-      decls: 151,
+      decls: 147,
       vars: 0,
-      consts: [[1, "titleSkills"], [1, "skillscontainer"], ["id", "frontend", 1, "elementImElternContainer"], [1, "title"], [1, "content"], ["src", "assets/logoHTML.png", "alt", "html"], ["src", "assets/logoCSS.png", "alt", "css"], ["src", "assets/scss.png", "alt", "scss"], ["src", "assets/logoJS.png", "alt", "js"], ["src", "assets/typescript.png", "alt", "TypeScript"], ["id", "frameworks", 1, "elementImElternContainer"], ["src", "assets/angular.png", "alt", "Angular"], ["src", "assets/vue.png", "alt", "Vue"], ["src", "assets/bootstrap.png", "alt", "Bootstrap"], ["src", "assets/bulma.png", "alt", "Bulma"], ["id", "backend", 1, "elementImElternContainer"], ["src", "assets/csharp.png", "alt", "CSharp"], ["src", "assets/java.png", "alt", "Java"], ["src", "assets/mysql_PNG23.png", "alt", "MySql"], ["src", "assets/node.png", "alt", "NodeJs"], ["id", "ide", 1, "elementImElternContainer"], ["src", "assets/jetbrains.png", "alt", "JetBrains"], ["src", "assets/vscode.png", "alt", "VSCode"], ["src", "assets/vs.png", "alt", "VS"], ["src", "assets/eclipse.png", "alt", "Eclipse"], ["id", "adobe", 1, "elementImElternContainer"], ["src", "assets/ps.png", "alt", "Photoshop"], ["src", "assets/lr.png", "alt", "Lightroom"], ["src", "assets/pr.png", "alt", "Premiere"], ["src", "assets/ae.png", "alt", "After Effects"], ["src", "assets/xd.png", "alt", "Adobe Xd"], ["id", "office", 1, "elementImElternContainer"], ["src", "assets/excel.png", "alt", "Excel"], ["src", "assets/pp.png", "alt", "Powerpoint"], ["src", "assets/word.png", "alt", "Word"], ["id", "sonstige", 1, "elementImElternContainer"], ["src", "assets/git.png", "alt", "Git"], ["src", "assets/logoGithub.png", "alt", "Github"], ["src", "assets/scrum.png", "alt", "Scrum"]],
+      consts: [[1, "titleSkills"], [1, "skillscontainer"], ["id", "frontend", 1, "elementImElternContainer"], [1, "title"], [1, "content"], ["alt", "html", "src", "assets/logoHTML.png"], ["alt", "css", "src", "assets/logoCSS.png"], ["alt", "scss", "src", "assets/scss.png"], ["alt", "js", "src", "assets/logoJS.png"], ["alt", "TypeScript", "src", "assets/typescript.png"], ["id", "frameworks", 1, "elementImElternContainer"], ["alt", "Angular", "src", "assets/angular.png"], ["alt", "Vue", "src", "assets/vue.png"], ["alt", "Bootstrap", "src", "assets/bootstrap.png"], ["alt", "Bulma", "src", "assets/bulma.png"], ["id", "backend", 1, "elementImElternContainer"], ["alt", "CSharp", "src", "assets/csharp.png"], ["alt", "Java", "src", "assets/java.png"], ["alt", "MySql", "src", "assets/mysql_PNG23.png"], ["alt", "NodeJs", "src", "assets/node.png"], ["id", "ide", 1, "elementImElternContainer"], ["alt", "JetBrains", "src", "assets/jetbrains.png"], ["alt", "VSCode", "src", "assets/vscode.png"], ["alt", "VS", "src", "assets/vs.png"], ["alt", "Eclipse", "src", "assets/eclipse.png"], ["id", "adobe", 1, "elementImElternContainer"], ["alt", "Photoshop", "src", "assets/ps.png"], ["alt", "Lightroom", "src", "assets/lr.png"], ["alt", "Premiere", "src", "assets/pr.png"], ["alt", "After Effects", "src", "assets/ae.png"], ["alt", "Adobe Xd", "src", "assets/xd.png"], ["id", "office", 1, "elementImElternContainer"], ["alt", "Powerpoint", "src", "assets/pp.png"], ["alt", "Word", "src", "assets/word.png"], ["id", "sonstige", 1, "elementImElternContainer"], ["alt", "Git", "src", "assets/git.png"], ["alt", "Github", "src", "assets/logoGithub.png"], ["alt", "Scrum", "src", "assets/scrum.png"]],
       template: function SkillsComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -4050,7 +4380,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](124, "figcaption");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](125, "Excel");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](125, "Powerpoint");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -4062,19 +4392,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](128, "figcaption");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](129, "Powerpoint");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](130, "figure");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](131, "img", 34);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](132, "figcaption");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](133, "Word");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](129, "Word");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -4084,19 +4402,31 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](134, "div", 35);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](130, "div", 34);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](135, "div", 3);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](131, "div", 3);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](136, "h2");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](132, "h2");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](137, "Sonstige");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](133, "Sonstige");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](134, "div", 4);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](135, "figure");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](136, "img", 35);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](137, "figcaption");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](138, "Git");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](138, "div", 4);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](139, "figure");
 
@@ -4104,7 +4434,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](141, "figcaption");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](142, "Git");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](142, "GitHub");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -4116,19 +4446,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](145, "figcaption");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](146, "GitHub");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](147, "figure");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](148, "img", 38);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](149, "figcaption");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](150, "Scrum");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](146, "Scrum");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -4535,7 +4853,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       function AppComponent() {
         _classCallCheck(this, AppComponent);
 
-        this.title = 'Angular-SCSS';
+        this.title = 'Angular-Portfolio';
       }
 
       _createClass(AppComponent, [{
@@ -4765,6 +5083,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var _Components_my_slider_my_slider_component__WEBPACK_IMPORTED_MODULE_24__ = __webpack_require__(
     /*! ./Components/my-slider/my-slider.component */
     "./src/app/Components/my-slider/my-slider.component.ts");
+    /* harmony import */
+
+
+    var _Components_projekte_webentwicklung_kino_kino_component__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(
+    /*! ./Components/projekte/webentwicklung/kino/kino.component */
+    "./src/app/Components/projekte/webentwicklung/kino/kino.component.ts");
 
     function themeFactory(themeService) {
       return function () {
@@ -4795,7 +5119,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
     (function () {
       (typeof ngJitMode === "undefined" || ngJitMode) && _angular_core__WEBPACK_IMPORTED_MODULE_9__["ɵɵsetNgModuleScope"](AppModule, {
-        declarations: [_app_component__WEBPACK_IMPORTED_MODULE_11__["AppComponent"], _Components_main_page_navigation_navigation_component__WEBPACK_IMPORTED_MODULE_12__["NavigationComponent"], _Components_main_page_main_page_component__WEBPACK_IMPORTED_MODULE_7__["MainPageComponent"], _Components_about_me_about_me_component__WEBPACK_IMPORTED_MODULE_15__["AboutMeComponent"], _Components_kontakt_kontakt_component__WEBPACK_IMPORTED_MODULE_16__["KontaktComponent"], _Components_projekt_galerie_projekt_galerie_component__WEBPACK_IMPORTED_MODULE_17__["ProjektGalerieComponent"], _Components_projekte_webentwicklung_webentwicklung_component__WEBPACK_IMPORTED_MODULE_18__["WebentwicklungComponent"], _Components_projekte_webentwicklung_verein_verein_component__WEBPACK_IMPORTED_MODULE_19__["VereinComponent"], _Components_projekte_webentwicklung_blog_blog_component__WEBPACK_IMPORTED_MODULE_20__["BlogComponent"], _Components_skills_skills_component__WEBPACK_IMPORTED_MODULE_21__["SkillsComponent"], _Components_thumbnail_thumbnail_component__WEBPACK_IMPORTED_MODULE_22__["ThumbnailComponent"], _Components_projekte_eshop_eshop_component__WEBPACK_IMPORTED_MODULE_23__["EshopComponent"], _Components_projekte_design_design_component__WEBPACK_IMPORTED_MODULE_6__["DesignComponent"], _Components_projekte_design_photoshop_photoshop_component__WEBPACK_IMPORTED_MODULE_5__["PhotoshopComponent"], _Components_projekte_design_aftereffect_aftereffect_component__WEBPACK_IMPORTED_MODULE_4__["AftereffectComponent"], _Components_projekte_games_games_component__WEBPACK_IMPORTED_MODULE_3__["GamesComponent"], _Components_projekte_games_shooter_shooter_component__WEBPACK_IMPORTED_MODULE_2__["ShooterComponent"], _Components_projekte_games_twitch_twitch_component__WEBPACK_IMPORTED_MODULE_1__["TwitchComponent"], _Components_projekte_factory_factory_component__WEBPACK_IMPORTED_MODULE_0__["FactoryComponent"], _Components_my_slider_my_slider_component__WEBPACK_IMPORTED_MODULE_24__["MySliderComponent"]],
+        declarations: [_app_component__WEBPACK_IMPORTED_MODULE_11__["AppComponent"], _Components_main_page_navigation_navigation_component__WEBPACK_IMPORTED_MODULE_12__["NavigationComponent"], _Components_main_page_main_page_component__WEBPACK_IMPORTED_MODULE_7__["MainPageComponent"], _Components_about_me_about_me_component__WEBPACK_IMPORTED_MODULE_15__["AboutMeComponent"], _Components_kontakt_kontakt_component__WEBPACK_IMPORTED_MODULE_16__["KontaktComponent"], _Components_projekt_galerie_projekt_galerie_component__WEBPACK_IMPORTED_MODULE_17__["ProjektGalerieComponent"], _Components_projekte_webentwicklung_webentwicklung_component__WEBPACK_IMPORTED_MODULE_18__["WebentwicklungComponent"], _Components_projekte_webentwicklung_verein_verein_component__WEBPACK_IMPORTED_MODULE_19__["VereinComponent"], _Components_projekte_webentwicklung_blog_blog_component__WEBPACK_IMPORTED_MODULE_20__["BlogComponent"], _Components_skills_skills_component__WEBPACK_IMPORTED_MODULE_21__["SkillsComponent"], _Components_thumbnail_thumbnail_component__WEBPACK_IMPORTED_MODULE_22__["ThumbnailComponent"], _Components_projekte_eshop_eshop_component__WEBPACK_IMPORTED_MODULE_23__["EshopComponent"], _Components_projekte_design_design_component__WEBPACK_IMPORTED_MODULE_6__["DesignComponent"], _Components_projekte_design_photoshop_photoshop_component__WEBPACK_IMPORTED_MODULE_5__["PhotoshopComponent"], _Components_projekte_design_aftereffect_aftereffect_component__WEBPACK_IMPORTED_MODULE_4__["AftereffectComponent"], _Components_projekte_games_games_component__WEBPACK_IMPORTED_MODULE_3__["GamesComponent"], _Components_projekte_games_shooter_shooter_component__WEBPACK_IMPORTED_MODULE_2__["ShooterComponent"], _Components_projekte_games_twitch_twitch_component__WEBPACK_IMPORTED_MODULE_1__["TwitchComponent"], _Components_projekte_factory_factory_component__WEBPACK_IMPORTED_MODULE_0__["FactoryComponent"], _Components_my_slider_my_slider_component__WEBPACK_IMPORTED_MODULE_24__["MySliderComponent"], _Components_projekte_webentwicklung_kino_kino_component__WEBPACK_IMPORTED_MODULE_25__["KinoComponent"]],
         imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_8__["BrowserModule"], _app_routing_module__WEBPACK_IMPORTED_MODULE_10__["AppRoutingModule"]]
       });
     })();
@@ -4806,7 +5130,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _angular_core__WEBPACK_IMPORTED_MODULE_9__["ɵsetClassMetadata"](AppModule, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_9__["NgModule"],
         args: [{
-          declarations: [_app_component__WEBPACK_IMPORTED_MODULE_11__["AppComponent"], _Components_main_page_navigation_navigation_component__WEBPACK_IMPORTED_MODULE_12__["NavigationComponent"], _Components_main_page_main_page_component__WEBPACK_IMPORTED_MODULE_7__["MainPageComponent"], _Components_about_me_about_me_component__WEBPACK_IMPORTED_MODULE_15__["AboutMeComponent"], _Components_kontakt_kontakt_component__WEBPACK_IMPORTED_MODULE_16__["KontaktComponent"], _Components_projekt_galerie_projekt_galerie_component__WEBPACK_IMPORTED_MODULE_17__["ProjektGalerieComponent"], _Components_projekte_webentwicklung_webentwicklung_component__WEBPACK_IMPORTED_MODULE_18__["WebentwicklungComponent"], _Components_projekte_webentwicklung_verein_verein_component__WEBPACK_IMPORTED_MODULE_19__["VereinComponent"], _Components_projekte_webentwicklung_blog_blog_component__WEBPACK_IMPORTED_MODULE_20__["BlogComponent"], _Components_skills_skills_component__WEBPACK_IMPORTED_MODULE_21__["SkillsComponent"], _Components_thumbnail_thumbnail_component__WEBPACK_IMPORTED_MODULE_22__["ThumbnailComponent"], _Components_projekte_eshop_eshop_component__WEBPACK_IMPORTED_MODULE_23__["EshopComponent"], _Components_projekte_design_design_component__WEBPACK_IMPORTED_MODULE_6__["DesignComponent"], _Components_projekte_design_photoshop_photoshop_component__WEBPACK_IMPORTED_MODULE_5__["PhotoshopComponent"], _Components_projekte_design_aftereffect_aftereffect_component__WEBPACK_IMPORTED_MODULE_4__["AftereffectComponent"], _Components_projekte_games_games_component__WEBPACK_IMPORTED_MODULE_3__["GamesComponent"], _Components_projekte_games_shooter_shooter_component__WEBPACK_IMPORTED_MODULE_2__["ShooterComponent"], _Components_projekte_games_twitch_twitch_component__WEBPACK_IMPORTED_MODULE_1__["TwitchComponent"], _Components_projekte_factory_factory_component__WEBPACK_IMPORTED_MODULE_0__["FactoryComponent"], _Components_my_slider_my_slider_component__WEBPACK_IMPORTED_MODULE_24__["MySliderComponent"]],
+          declarations: [_app_component__WEBPACK_IMPORTED_MODULE_11__["AppComponent"], _Components_main_page_navigation_navigation_component__WEBPACK_IMPORTED_MODULE_12__["NavigationComponent"], _Components_main_page_main_page_component__WEBPACK_IMPORTED_MODULE_7__["MainPageComponent"], _Components_about_me_about_me_component__WEBPACK_IMPORTED_MODULE_15__["AboutMeComponent"], _Components_kontakt_kontakt_component__WEBPACK_IMPORTED_MODULE_16__["KontaktComponent"], _Components_projekt_galerie_projekt_galerie_component__WEBPACK_IMPORTED_MODULE_17__["ProjektGalerieComponent"], _Components_projekte_webentwicklung_webentwicklung_component__WEBPACK_IMPORTED_MODULE_18__["WebentwicklungComponent"], _Components_projekte_webentwicklung_verein_verein_component__WEBPACK_IMPORTED_MODULE_19__["VereinComponent"], _Components_projekte_webentwicklung_blog_blog_component__WEBPACK_IMPORTED_MODULE_20__["BlogComponent"], _Components_skills_skills_component__WEBPACK_IMPORTED_MODULE_21__["SkillsComponent"], _Components_thumbnail_thumbnail_component__WEBPACK_IMPORTED_MODULE_22__["ThumbnailComponent"], _Components_projekte_eshop_eshop_component__WEBPACK_IMPORTED_MODULE_23__["EshopComponent"], _Components_projekte_design_design_component__WEBPACK_IMPORTED_MODULE_6__["DesignComponent"], _Components_projekte_design_photoshop_photoshop_component__WEBPACK_IMPORTED_MODULE_5__["PhotoshopComponent"], _Components_projekte_design_aftereffect_aftereffect_component__WEBPACK_IMPORTED_MODULE_4__["AftereffectComponent"], _Components_projekte_games_games_component__WEBPACK_IMPORTED_MODULE_3__["GamesComponent"], _Components_projekte_games_shooter_shooter_component__WEBPACK_IMPORTED_MODULE_2__["ShooterComponent"], _Components_projekte_games_twitch_twitch_component__WEBPACK_IMPORTED_MODULE_1__["TwitchComponent"], _Components_projekte_factory_factory_component__WEBPACK_IMPORTED_MODULE_0__["FactoryComponent"], _Components_my_slider_my_slider_component__WEBPACK_IMPORTED_MODULE_24__["MySliderComponent"], _Components_projekte_webentwicklung_kino_kino_component__WEBPACK_IMPORTED_MODULE_25__["KinoComponent"]],
           imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_8__["BrowserModule"], _app_routing_module__WEBPACK_IMPORTED_MODULE_10__["AppRoutingModule"]],
           providers: [src_services_modeToggle_service__WEBPACK_IMPORTED_MODULE_13__["ModeToggleService"], src_services_local_storage_service__WEBPACK_IMPORTED_MODULE_14__["StorageService"], {
             provide: _angular_core__WEBPACK_IMPORTED_MODULE_9__["APP_INITIALIZER"],
