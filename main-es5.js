@@ -74,7 +74,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-about-me"]],
       decls: 22,
       vars: 0,
-      consts: [[1, "titel"], [1, "about-me"], [1, "bild"], ["src", "assets/mesmile.png", "alt", "Portrait"], [1, "inhalt"]],
+      consts: [[1, "titel"], [1, "about-me"], ["data-aos", "zoom-out-right", "data-aos-anchor-placement", "bottom-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", 1, "bild"], ["alt", "Portrait", "src", "assets/mesmile.png"], ["data-aos", "zoom-out-left", "data-aos-anchor-placement", "bottom-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", 1, "inhalt"]],
       template: function AboutMeComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -198,7 +198,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-kontakt"]],
       decls: 13,
       vars: 0,
-      consts: [[1, "titleKontakt"], [1, "kontaktContainer"], [1, "fas", "fa-envelope"], ["href", "mailto:joscha.sattler@outlook.de"], [1, "phone"], [1, "fas", "fa-mobile-alt"]],
+      consts: [[1, "titleKontakt"], [1, "kontaktContainer"], ["data-aos", "fade-right", "data-aos-anchor-placement", "bottom-center"], [1, "fas", "fa-envelope"], ["href", "mailto:joscha.sattler@outlook.de"], ["data-aos", "fade-left", "data-aos-anchor-placement", "bottom-center", 1, "phone"], [1, "fas", "fa-mobile-alt"]],
       template: function KontaktComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -215,13 +215,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "div");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "div", 2);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](6, "i", 2);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](6, "i", 3);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](7, " : ");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "a", 3);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "a", 4);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](9, " joscha.sattler@outlook.de ");
 
@@ -231,9 +231,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "div", 4);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "div", 5);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](11, "i", 5);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](11, "i", 6);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, " : 0151 59169322 ");
 
@@ -1163,7 +1163,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-projekt-galerie"]],
       decls: 24,
       vars: 0,
-      consts: [[1, "titleProjekte"], [1, "parent"], ["routerLink", "/Webentwicklung", 1, "figure"], ["src", "https://images.unsplash.com/photo-1593086784152-b060f8109e0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80", "alt", "Webentwicklung"], ["routerLink", "/Eshop", 1, "figure"], ["src", "https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80", "alt", "Eshop"], ["routerLink", "/SmartFactory", 1, "figure"], ["src", "assets/smartfactory.jpg", "alt", "Industrie 4.0"], ["routerLink", "/Design", 1, "figure"], ["src", "https://images.unsplash.com/photo-1541462608143-67571c6738dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80", "alt", "Design"], ["routerLink", "/Games", 1, "figure"], ["src", "https://images.unsplash.com/photo-1539716947714-3295e1074d33?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80", "alt", "Games"]],
+      consts: [[1, "titleProjekte"], [1, "parent"], ["data-aos", "fade-up", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", "routerLink", "/Webentwicklung", 1, "figure"], ["alt", "Webentwicklung", "src", "https://images.unsplash.com/photo-1593086784152-b060f8109e0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80"], ["data-aos", "fade-up", "data-aos-delay", "50", "data-aos-duration", "1000", "data-aos-easing", "ease-in-out", "data-aos-once", "false", "routerLink", "/Eshop", 1, "figure"], ["alt", "Eshop", "src", "https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"], ["data-aos", "fade-up", "data-aos-delay", "50", "data-aos-duration", "1000", "data-aos-easing", "ease-in-out", "data-aos-once", "false", "routerLink", "/SmartFactory", 1, "figure"], ["alt", "Industrie 4.0", "src", "assets/smartfactory.jpg"], ["data-aos", "fade-up", "data-aos-delay", "50", "data-aos-duration", "1000", "data-aos-easing", "ease-in-out", "data-aos-once", "false", "routerLink", "/Design", 1, "figure"], ["alt", "Design", "src", "https://images.unsplash.com/photo-1541462608143-67571c6738dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"], ["data-aos", "fade-up", "data-aos-delay", "50", "data-aos-duration", "1000", "data-aos-easing", "ease-in-out", "data-aos-once", "false", "routerLink", "/Games", 1, "figure"], ["alt", "Games", "src", "https://images.unsplash.com/photo-1539716947714-3295e1074d33?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"]],
       template: function ProjektGalerieComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -1242,7 +1242,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         }
       },
       directives: [_angular_router__WEBPACK_IMPORTED_MODULE_1__["RouterLink"]],
-      styles: [".titleProjekte[_ngcontent-%COMP%] {\n  margin-top: 75px;\n  margin-bottom: 50px;\n  text-align: center;\n}\n.parent[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: center;\n  grid-gap: 20px;\n  flex-direction: column;\n  max-width: 75vw;\n  margin: auto;\n}\n.parent[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\n  width: 100%;\n  height: 350px;\n  -o-object-fit: cover;\n     object-fit: cover;\n  -o-object-position: 50% 60%;\n     object-position: 50% 60%;\n  webkit-filter: blur(5px);\n  \n  filter: blur(5px);\n  border-radius: 5px;\n}\n.figure[_ngcontent-%COMP%]:hover {\n  box-shadow: 0 0 4px 3px var(--boxShadow);\n  cursor: pointer;\n  transform: scale(1.01);\n}\n.figure[_ngcontent-%COMP%]:hover   img[_ngcontent-%COMP%] {\n  webkit-filter: blur(0px);\n  \n  filter: blur(0px);\n}\n.figure[_ngcontent-%COMP%] {\n  position: relative;\n  border-radius: 5px;\n  font-size: clamp(3rem, 4vw, 5rem);\n  text-align: center;\n  font-weight: bold;\n  background-color: var(--cardBack);\n  color: #fcfcfc;\n  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;\n  border: 1px solid var(--cardBorder);\n}\nfigcaption[_ngcontent-%COMP%] {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvQ29tcG9uZW50cy9wcm9qZWt0LWdhbGVyaWUvRDpcXERlc2t0b3BcXFdlYkRldlxcMl9Bbmd1bGFyLVByb2pla3RlXFxQb3J0Zm9saW8vc3JjXFxhcHBcXENvbXBvbmVudHNcXHByb2pla3QtZ2FsZXJpZVxccHJvamVrdC1nYWxlcmllLmNvbXBvbmVudC5zY3NzIiwic3JjL2FwcC9Db21wb25lbnRzL3Byb2pla3QtZ2FsZXJpZS9wcm9qZWt0LWdhbGVyaWUuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsbUJBQUE7QUFFQTtFQUNFLGdCQUFBO0VBQ0EsbUJBQUE7RUFDQSxrQkFBQTtBQ0FGO0FER0E7RUFDRSxhQUFBO0VBQ0EsdUJBQUE7RUFDQSxjQUFBO0VBQ0Esc0JBQUE7RUFFQSxlQUFBO0VBQ0EsWUFBQTtBQ0RGO0FESUE7RUFDRSxXQUFBO0VBQ0EsYUFBQTtFQUNBLG9CQUFBO0tBQUEsaUJBQUE7RUFDQSwyQkFBQTtLQUFBLHdCQUFBO0VBRUEsd0JBQUE7RUFDQSwwQkFBQTtFQUNBLGlCQUFBO0VBRUEsa0JBQUE7QUNIRjtBRE1BO0VBQ0Usd0NBQUE7RUFDQSxlQUFBO0VBRUEsc0JBQUE7QUNKRjtBRE1FO0VBQ0Usd0JBQUE7RUFDQSwwQkFBQTtFQUNBLGlCQUFBO0FDSko7QURTQTtFQUNFLGtCQUFBO0VBQ0Esa0JBQUE7RUFFQSxpQ0FBQTtFQUNBLGtCQUFBO0VBQ0EsaUJBQUE7RUFDQSxpQ0FBQTtFQUNBLGNBQUE7RUFDQSxpRUFBQTtFQUVBLG1DQUFBO0FDUkY7QURXQTtFQUNFLGtCQUFBO0VBQ0EsUUFBQTtFQUNBLFNBQUE7RUFDQSxnQ0FBQTtBQ1JGIiwiZmlsZSI6InNyYy9hcHAvQ29tcG9uZW50cy9wcm9qZWt0LWdhbGVyaWUvcHJvamVrdC1nYWxlcmllLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLyogQmlsZGVyLUdhbGVyaWUgKi9cclxuXHJcbi50aXRsZVByb2pla3RlIHtcclxuICBtYXJnaW4tdG9wOiA3NXB4O1xyXG4gIG1hcmdpbi1ib3R0b206IDUwcHg7XHJcbiAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59XHJcblxyXG4ucGFyZW50IHtcclxuICBkaXNwbGF5OiBmbGV4O1xyXG4gIGp1c3RpZnktY29udGVudDogY2VudGVyO1xyXG4gIGdyaWQtZ2FwOiAyMHB4O1xyXG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XHJcblxyXG4gIG1heC13aWR0aDogNzV2dztcclxuICBtYXJnaW46IGF1dG87XHJcbn1cclxuXHJcbi5wYXJlbnQgaW1nIHtcclxuICB3aWR0aDogMTAwJTtcclxuICBoZWlnaHQ6IDM1MHB4O1xyXG4gIG9iamVjdC1maXQ6IGNvdmVyO1xyXG4gIG9iamVjdC1wb3NpdGlvbjogNTAlIDYwJTtcclxuXHJcbiAgd2Via2l0LWZpbHRlcjogYmx1cig1cHgpO1xyXG4gIC8qIENocm9tZSwgU2FmYXJpLCBPcGVyYSAqL1xyXG4gIGZpbHRlcjogYmx1cig1cHgpO1xyXG5cclxuICBib3JkZXItcmFkaXVzOiA1cHg7XHJcbn1cclxuXHJcbi5maWd1cmU6aG92ZXIge1xyXG4gIGJveC1zaGFkb3c6IDAgMCA0cHggM3B4IHZhcigtLWJveFNoYWRvdyk7XHJcbiAgY3Vyc29yOiBwb2ludGVyO1xyXG4gIC8vIGNvbG9yOiB2YXIoLS1ob3Zlcik7XHJcbiAgdHJhbnNmb3JtOiBzY2FsZSgxLjAxKTtcclxuXHJcbiAgaW1nIHtcclxuICAgIHdlYmtpdC1maWx0ZXI6IGJsdXIoMHB4KTtcclxuICAgIC8qIENocm9tZSwgU2FmYXJpLCBPcGVyYSAqL1xyXG4gICAgZmlsdGVyOiBibHVyKDBweCk7XHJcblxyXG4gIH1cclxufVxyXG5cclxuLmZpZ3VyZSB7XHJcbiAgcG9zaXRpb246IHJlbGF0aXZlO1xyXG4gIGJvcmRlci1yYWRpdXM6IDVweDtcclxuICAvLyBwYWRkaW5nOiAwLjc1cmVtO1xyXG4gIGZvbnQtc2l6ZTogY2xhbXAoM3JlbSwgNHZ3LCA1cmVtKTtcclxuICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbiAgZm9udC13ZWlnaHQ6IGJvbGQ7XHJcbiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tY2FyZEJhY2spO1xyXG4gIGNvbG9yOiAjZmNmY2ZjO1xyXG4gIHRleHQtc2hhZG93OiAtMXB4IDAgYmxhY2ssIDAgMXB4IGJsYWNrLCAxcHggMCBibGFjaywgMCAtMXB4IGJsYWNrO1xyXG5cclxuICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1jYXJkQm9yZGVyKTtcclxufVxyXG5cclxuZmlnY2FwdGlvbiB7XHJcbiAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gIHRvcDogNTAlO1xyXG4gIGxlZnQ6IDUwJTtcclxuICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcclxufVxyXG4iLCIvKiBCaWxkZXItR2FsZXJpZSAqL1xuLnRpdGxlUHJvamVrdGUge1xuICBtYXJnaW4tdG9wOiA3NXB4O1xuICBtYXJnaW4tYm90dG9tOiA1MHB4O1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbi5wYXJlbnQge1xuICBkaXNwbGF5OiBmbGV4O1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgZ3JpZC1nYXA6IDIwcHg7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gIG1heC13aWR0aDogNzV2dztcbiAgbWFyZ2luOiBhdXRvO1xufVxuXG4ucGFyZW50IGltZyB7XG4gIHdpZHRoOiAxMDAlO1xuICBoZWlnaHQ6IDM1MHB4O1xuICBvYmplY3QtZml0OiBjb3ZlcjtcbiAgb2JqZWN0LXBvc2l0aW9uOiA1MCUgNjAlO1xuICB3ZWJraXQtZmlsdGVyOiBibHVyKDVweCk7XG4gIC8qIENocm9tZSwgU2FmYXJpLCBPcGVyYSAqL1xuICBmaWx0ZXI6IGJsdXIoNXB4KTtcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xufVxuXG4uZmlndXJlOmhvdmVyIHtcbiAgYm94LXNoYWRvdzogMCAwIDRweCAzcHggdmFyKC0tYm94U2hhZG93KTtcbiAgY3Vyc29yOiBwb2ludGVyO1xuICB0cmFuc2Zvcm06IHNjYWxlKDEuMDEpO1xufVxuLmZpZ3VyZTpob3ZlciBpbWcge1xuICB3ZWJraXQtZmlsdGVyOiBibHVyKDBweCk7XG4gIC8qIENocm9tZSwgU2FmYXJpLCBPcGVyYSAqL1xuICBmaWx0ZXI6IGJsdXIoMHB4KTtcbn1cblxuLmZpZ3VyZSB7XG4gIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xuICBmb250LXNpemU6IGNsYW1wKDNyZW0sIDR2dywgNXJlbSk7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWNhcmRCYWNrKTtcbiAgY29sb3I6ICNmY2ZjZmM7XG4gIHRleHQtc2hhZG93OiAtMXB4IDAgYmxhY2ssIDAgMXB4IGJsYWNrLCAxcHggMCBibGFjaywgMCAtMXB4IGJsYWNrO1xuICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1jYXJkQm9yZGVyKTtcbn1cblxuZmlnY2FwdGlvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgdG9wOiA1MCU7XG4gIGxlZnQ6IDUwJTtcbiAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG59Il19 */"]
+      styles: [".titleProjekte[_ngcontent-%COMP%] {\n  margin-top: 75px;\n  margin-bottom: 50px;\n  text-align: center;\n}\n.parent[_ngcontent-%COMP%] {\n  display: flex;\n  justify-content: center;\n  grid-gap: 20px;\n  flex-direction: column;\n  max-width: 75vw;\n  margin: auto;\n}\n.parent[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\n  width: 100%;\n  height: 300px;\n  -o-object-fit: cover;\n     object-fit: cover;\n  -o-object-position: 50% 60%;\n     object-position: 50% 60%;\n  webkit-filter: blur(5px);\n  \n  filter: blur(5px);\n  border-radius: 5px;\n}\n.figure[_ngcontent-%COMP%]:hover {\n  box-shadow: 0 0 4px 3px var(--boxShadow);\n  cursor: pointer;\n  transform: scale(1.01);\n}\n.figure[_ngcontent-%COMP%]:hover   img[_ngcontent-%COMP%] {\n  webkit-filter: blur(0px);\n  \n  filter: blur(0px);\n}\n.figure[_ngcontent-%COMP%] {\n  position: relative;\n  border-radius: 5px;\n  font-size: clamp(3rem, 4vw, 5rem);\n  text-align: center;\n  font-weight: bold;\n  background-color: var(--cardBack);\n  color: #fcfcfc;\n  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;\n  border: 1px solid var(--cardBorder);\n}\nfigcaption[_ngcontent-%COMP%] {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvQ29tcG9uZW50cy9wcm9qZWt0LWdhbGVyaWUvRDpcXERlc2t0b3BcXFdlYkRldlxcMl9Bbmd1bGFyLVByb2pla3RlXFxQb3J0Zm9saW8vc3JjXFxhcHBcXENvbXBvbmVudHNcXHByb2pla3QtZ2FsZXJpZVxccHJvamVrdC1nYWxlcmllLmNvbXBvbmVudC5zY3NzIiwic3JjL2FwcC9Db21wb25lbnRzL3Byb2pla3QtZ2FsZXJpZS9wcm9qZWt0LWdhbGVyaWUuY29tcG9uZW50LnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsbUJBQUE7QUFFQTtFQUNFLGdCQUFBO0VBQ0EsbUJBQUE7RUFDQSxrQkFBQTtBQ0FGO0FER0E7RUFDRSxhQUFBO0VBQ0EsdUJBQUE7RUFDQSxjQUFBO0VBQ0Esc0JBQUE7RUFFQSxlQUFBO0VBQ0EsWUFBQTtBQ0RGO0FESUE7RUFDRSxXQUFBO0VBQ0EsYUFBQTtFQUNBLG9CQUFBO0tBQUEsaUJBQUE7RUFDQSwyQkFBQTtLQUFBLHdCQUFBO0VBRUEsd0JBQUE7RUFDQSwwQkFBQTtFQUNBLGlCQUFBO0VBRUEsa0JBQUE7QUNIRjtBRE1BO0VBQ0Usd0NBQUE7RUFDQSxlQUFBO0VBRUEsc0JBQUE7QUNKRjtBRE1FO0VBQ0Usd0JBQUE7RUFDQSwwQkFBQTtFQUNBLGlCQUFBO0FDSko7QURRQTtFQUNFLGtCQUFBO0VBQ0Esa0JBQUE7RUFFQSxpQ0FBQTtFQUNBLGtCQUFBO0VBQ0EsaUJBQUE7RUFDQSxpQ0FBQTtFQUNBLGNBQUE7RUFDQSxpRUFBQTtFQUVBLG1DQUFBO0FDUEY7QURVQTtFQUNFLGtCQUFBO0VBQ0EsUUFBQTtFQUNBLFNBQUE7RUFDQSxnQ0FBQTtBQ1BGIiwiZmlsZSI6InNyYy9hcHAvQ29tcG9uZW50cy9wcm9qZWt0LWdhbGVyaWUvcHJvamVrdC1nYWxlcmllLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLyogQmlsZGVyLUdhbGVyaWUgKi9cblxuLnRpdGxlUHJvamVrdGUge1xuICBtYXJnaW4tdG9wOiA3NXB4O1xuICBtYXJnaW4tYm90dG9tOiA1MHB4O1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbi5wYXJlbnQge1xuICBkaXNwbGF5OiBmbGV4O1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgZ3JpZC1nYXA6IDIwcHg7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG5cbiAgbWF4LXdpZHRoOiA3NXZ3O1xuICBtYXJnaW46IGF1dG87XG59XG5cbi5wYXJlbnQgaW1nIHtcbiAgd2lkdGg6IDEwMCU7XG4gIGhlaWdodDogMzAwcHg7XG4gIG9iamVjdC1maXQ6IGNvdmVyO1xuICBvYmplY3QtcG9zaXRpb246IDUwJSA2MCU7XG5cbiAgd2Via2l0LWZpbHRlcjogYmx1cig1cHgpO1xuICAvKiBDaHJvbWUsIFNhZmFyaSwgT3BlcmEgKi9cbiAgZmlsdGVyOiBibHVyKDVweCk7XG5cbiAgYm9yZGVyLXJhZGl1czogNXB4O1xufVxuXG4uZmlndXJlOmhvdmVyIHtcbiAgYm94LXNoYWRvdzogMCAwIDRweCAzcHggdmFyKC0tYm94U2hhZG93KTtcbiAgY3Vyc29yOiBwb2ludGVyO1xuICAvLyBjb2xvcjogdmFyKC0taG92ZXIpO1xuICB0cmFuc2Zvcm06IHNjYWxlKDEuMDEpO1xuXG4gIGltZyB7XG4gICAgd2Via2l0LWZpbHRlcjogYmx1cigwcHgpO1xuICAgIC8qIENocm9tZSwgU2FmYXJpLCBPcGVyYSAqL1xuICAgIGZpbHRlcjogYmx1cigwcHgpO1xuICB9XG59XG5cbi5maWd1cmUge1xuICBwb3NpdGlvbjogcmVsYXRpdmU7XG4gIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgLy8gcGFkZGluZzogMC43NXJlbTtcbiAgZm9udC1zaXplOiBjbGFtcCgzcmVtLCA0dncsIDVyZW0pO1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gIGZvbnQtd2VpZ2h0OiBib2xkO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1jYXJkQmFjayk7XG4gIGNvbG9yOiAjZmNmY2ZjO1xuICB0ZXh0LXNoYWRvdzogLTFweCAwIGJsYWNrLCAwIDFweCBibGFjaywgMXB4IDAgYmxhY2ssIDAgLTFweCBibGFjaztcblxuICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1jYXJkQm9yZGVyKTtcbn1cblxuZmlnY2FwdGlvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgdG9wOiA1MCU7XG4gIGxlZnQ6IDUwJTtcbiAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG59XG4iLCIvKiBCaWxkZXItR2FsZXJpZSAqL1xuLnRpdGxlUHJvamVrdGUge1xuICBtYXJnaW4tdG9wOiA3NXB4O1xuICBtYXJnaW4tYm90dG9tOiA1MHB4O1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59XG5cbi5wYXJlbnQge1xuICBkaXNwbGF5OiBmbGV4O1xuICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgZ3JpZC1nYXA6IDIwcHg7XG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gIG1heC13aWR0aDogNzV2dztcbiAgbWFyZ2luOiBhdXRvO1xufVxuXG4ucGFyZW50IGltZyB7XG4gIHdpZHRoOiAxMDAlO1xuICBoZWlnaHQ6IDMwMHB4O1xuICBvYmplY3QtZml0OiBjb3ZlcjtcbiAgb2JqZWN0LXBvc2l0aW9uOiA1MCUgNjAlO1xuICB3ZWJraXQtZmlsdGVyOiBibHVyKDVweCk7XG4gIC8qIENocm9tZSwgU2FmYXJpLCBPcGVyYSAqL1xuICBmaWx0ZXI6IGJsdXIoNXB4KTtcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xufVxuXG4uZmlndXJlOmhvdmVyIHtcbiAgYm94LXNoYWRvdzogMCAwIDRweCAzcHggdmFyKC0tYm94U2hhZG93KTtcbiAgY3Vyc29yOiBwb2ludGVyO1xuICB0cmFuc2Zvcm06IHNjYWxlKDEuMDEpO1xufVxuLmZpZ3VyZTpob3ZlciBpbWcge1xuICB3ZWJraXQtZmlsdGVyOiBibHVyKDBweCk7XG4gIC8qIENocm9tZSwgU2FmYXJpLCBPcGVyYSAqL1xuICBmaWx0ZXI6IGJsdXIoMHB4KTtcbn1cblxuLmZpZ3VyZSB7XG4gIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xuICBmb250LXNpemU6IGNsYW1wKDNyZW0sIDR2dywgNXJlbSk7XG4gIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWNhcmRCYWNrKTtcbiAgY29sb3I6ICNmY2ZjZmM7XG4gIHRleHQtc2hhZG93OiAtMXB4IDAgYmxhY2ssIDAgMXB4IGJsYWNrLCAxcHggMCBibGFjaywgMCAtMXB4IGJsYWNrO1xuICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1jYXJkQm9yZGVyKTtcbn1cblxuZmlnY2FwdGlvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgdG9wOiA1MCU7XG4gIGxlZnQ6IDUwJTtcbiAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7XG59Il19 */"]
     });
     /*@__PURE__*/
 
@@ -1554,7 +1554,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       },
       decls: 21,
       vars: 3,
-      consts: [[1, "titleDesign"], [1, "designContainer"], ["id", "foto", 1, "figure", 3, "click"], ["src", "assets/ps2.png", "alt", "Blog"], ["id", "video", 1, "figure", 3, "click"], ["src", "assets/motiondesign.jpg", "alt", "Verein"], [1, "projekte"], ["goto", ""], [4, "ngIf"], ["class", "pick", 4, "ngIf"], [1, "pick"]],
+      consts: [[1, "titleDesign"], [1, "designContainer"], ["data-aos", "zoom-in", "id", "foto", 1, "figure", 3, "click"], ["alt", "Blog", "src", "assets/ps2.png"], ["data-aos", "zoom-in", "id", "video", 1, "figure", 3, "click"], ["alt", "Verein", "src", "assets/motiondesign.jpg"], [1, "projekte"], ["goto", ""], [4, "ngIf"], ["class", "pick", 4, "ngIf"], [1, "pick"]],
       template: function DesignComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -2415,7 +2415,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       },
       decls: 21,
       vars: 3,
-      consts: [[1, "titleGames"], [1, "gamesContainer"], ["id", "shooter", 1, "figure", 3, "click"], ["src", "assets/shooter/g1.png", "alt", "Shooter"], ["id", "twitch", 1, "figure", 3, "click"], ["src", "assets/shooter/twitch.png", "alt", "Twitch World"], [1, "projekte"], ["goto", ""], [4, "ngIf"], ["class", "pick", 4, "ngIf"], [1, "pick"]],
+      consts: [[1, "titleGames"], [1, "gamesContainer"], ["data-aos", "zoom-in", "id", "shooter", 1, "figure", 3, "click"], ["alt", "Shooter", "src", "assets/shooter/g1.png"], ["data-aos", "zoom-in", "id", "twitch", 1, "figure", 3, "click"], ["alt", "Twitch World", "src", "assets/shooter/twitch.png"], [1, "projekte"], ["goto", ""], [4, "ngIf"], ["class", "pick", 4, "ngIf"], [1, "pick"]],
       template: function GamesComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -2606,7 +2606,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-shooter"]],
       decls: 21,
       vars: 3,
-      consts: [[1, "titleShooter"], ["href", "https://github.com/joscha-sattler/Shooter", "target", "_blank"], ["alt", "GitHub", 3, "src"], [1, "slider"], [3, "startbild", "collection"], [1, "info"], [1, "skillscontainer"], ["id", "frameworks", 1, "elementImElternContainer"], [1, "content"], ["src", "assets/logoJS.png", "alt", "JavaScript"], [1, "all"], [1, "video"], ["src", "https://www.youtube.com/embed/Max4VWYwbOo", "allowfullscreen", ""]],
+      consts: [[1, "titleShooter"], ["href", "https://github.com/joscha-sattler/Shooter", "target", "_blank"], ["alt", "GitHub", 3, "src"], [1, "slider"], [3, "collection", "startbild"], [1, "info"], [1, "skillscontainer"], ["id", "frameworks", 1, "elementImElternContainer"], [1, "content"], ["alt", "JavaScript", "src", "assets/logoJS.png"], [1, "all"], [1, "video"], ["allowfullscreen", "", "src", "https://www.youtube.com/embed/Max4VWYwbOo"]],
       template: function ShooterComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -2687,7 +2687,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("startbild", ctx.startbild)("collection", ctx.bilder);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("collection", ctx.bilder)("startbild", ctx.startbild);
         }
       },
       directives: [_my_slider_my_slider_component__WEBPACK_IMPORTED_MODULE_2__["MySliderComponent"]],
@@ -2769,7 +2769,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-twitch"]],
       decls: 27,
       vars: 1,
-      consts: [[1, "titleTwitch"], ["href", "https://github.com/joscha-sattler/Twitch-World", "target", "_blank"], ["alt", "GitHub", 3, "src"], [1, "all"], [1, "video"], ["src", "https://www.youtube.com/embed/VsE-RG7ZwZI", "allowfullscreen", ""], [1, "info"], [1, "skillscontainer"], ["id", "frameworks", 1, "elementImElternContainer"], [1, "content"], ["src", "assets/logoJS.png", "alt", "JavaScript"], ["src", "assets/phaser.png", "alt", "Phaser"], ["src", "assets/aseprite.png", "alt", "Aseprite"]],
+      consts: [[1, "titleTwitch"], ["href", "https://github.com/joscha-sattler/Twitch-World", "target", "_blank"], ["alt", "GitHub", 3, "src"], [1, "all"], [1, "video"], ["allowfullscreen", "", "src", "https://www.youtube.com/embed/VsE-RG7ZwZI"], [1, "info"], [1, "skillscontainer"], ["id", "frameworks", 1, "elementImElternContainer"], [1, "content"], ["alt", "JavaScript", "src", "assets/logoJS.png"], ["alt", "Phaser", "src", "assets/phaser.png"], ["alt", "Aseprite", "src", "assets/aseprite.png"]],
       template: function TwitchComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -3807,7 +3807,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       },
       decls: 27,
       vars: 4,
-      consts: [[1, "titleWebdev"], [1, "WebdevContainer"], ["id", "blog", 1, "figure", 3, "click"], ["alt", "Blog", "src", "assets/blog.jpg"], ["id", "verein", 1, "figure", 3, "click"], ["alt", "Verein", "src", "assets/verein.png"], ["id", "kino", 1, "figure", 3, "click"], ["alt", "Verein", "src", "assets/kino/kino_wallpaper.jpg"], [1, "projekte"], ["goto", ""], [4, "ngIf"], ["class", "pick", 4, "ngIf"], [1, "pick"]],
+      consts: [[1, "titleWebdev"], [1, "WebdevContainer"], ["data-aos", "zoom-in", "id", "blog", 1, "figure", 3, "click"], ["alt", "Blog", "src", "assets/blog.jpg"], ["data-aos", "zoom-in", "id", "verein", 1, "figure", 3, "click"], ["alt", "Verein", "src", "assets/verein.png"], ["data-aos", "zoom-in", "id", "kino", 1, "figure", 3, "click"], ["alt", "Verein", "src", "assets/kino/kino_wallpaper.jpg"], [1, "projekte"], ["goto", ""], [4, "ngIf"], ["class", "pick", 4, "ngIf"], [1, "pick"]],
       template: function WebentwicklungComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -4103,7 +4103,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-skills"]],
       decls: 98,
       vars: 0,
-      consts: [[1, "titleSkills"], [1, "skillscontainer"], ["id", "frontend", 1, "elementImElternContainer"], [1, "title"], [1, "content"], ["alt", "html", "src", "assets/logoHTML.png"], ["alt", "css 3", "src", "assets/logoCSS.png"], ["alt", "SCSS", "src", "assets/scss.png"], ["alt", "JavaScript", "src", "assets/logoJS.png"], ["alt", "TypeScript", "src", "assets/typescript.png"], ["id", "frameworks", 1, "elementImElternContainer"], ["alt", "Angular", "src", "assets/angular.png"], ["alt", "Vue", "src", "assets/vue.png"], ["id", "ui", 1, "elementImElternContainer"], ["alt", "Bulma", "src", "assets/bulma.png"], ["alt", "Bootstrap", "src", "assets/bootstrap.png"], ["alt", "Element+", "src", "assets/element.png"], ["id", "backend", 1, "elementImElternContainer"], ["alt", "CSharp", "src", "assets/csharp.png"], ["alt", "Java", "src", "assets/java.png"], ["alt", "MySQL", "src", "assets/mysql_PNG23.png"], ["alt", "NodeJs", "src", "assets/node.png"], ["id", "ide", 1, "elementImElternContainer"], ["alt", "JetBrains", "src", "assets/jetbrains.png"], ["alt", "VSCode", "src", "assets/vscode.png"], ["alt", "VS", "src", "assets/vs.png"], ["id", "adobe", 1, "elementImElternContainer"], ["alt", "Photoshop", "src", "assets/ps.png"], ["alt", "Lightroom", "src", "assets/lr.png"], ["alt", "Premiere", "src", "assets/pr.png"], ["alt", "After Effects", "src", "assets/ae.png"], ["alt", "Adobe Xd", "src", "assets/xd.png"], ["id", "office", 1, "elementImElternContainer"], ["alt", "Powerpoint", "src", "assets/pp.png"], ["alt", "Word", "src", "assets/word.png"], ["id", "sonstige", 1, "elementImElternContainer"], ["alt", "Git", "src", "assets/git.png"], ["alt", "Github", "src", "assets/logoGithub.png"], ["alt", "Scrum", "src", "assets/scrum.png"]],
+      consts: [[1, "titleSkills"], [1, "skillscontainer"], ["data-aos", "flip-up", "data-aos-anchor-placement", "top-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", "id", "frontend", 1, "elementImElternContainer"], [1, "title"], [1, "content"], ["alt", "html", "src", "assets/logoHTML.png"], ["alt", "css 3", "src", "assets/logoCSS.png"], ["alt", "SCSS", "src", "assets/scss.png"], ["alt", "JavaScript", "src", "assets/logoJS.png"], ["alt", "TypeScript", "src", "assets/typescript.png"], ["data-aos", "flip-left", "data-aos-anchor-placement", "top-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", "id", "frameworks", 1, "elementImElternContainer"], ["alt", "Angular", "src", "assets/angular.png"], ["alt", "Vue", "src", "assets/vue.png"], ["data-aos", "flip-right", "data-aos-anchor-placement", "top-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", "id", "ui", 1, "elementImElternContainer"], ["alt", "Bulma", "src", "assets/bulma.png"], ["alt", "Bootstrap", "src", "assets/bootstrap.png"], ["alt", "Element+", "src", "assets/element.png"], ["data-aos", "flip-up", "data-aos-anchor-placement", "top-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", "id", "backend", 1, "elementImElternContainer"], ["alt", "CSharp", "src", "assets/csharp.png"], ["alt", "Java", "src", "assets/java.png"], ["alt", "MySQL", "src", "assets/mysql_PNG23.png"], ["alt", "NodeJs", "src", "assets/node.png"], ["data-aos", "flip-up", "data-aos-anchor-placement", "top-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", "id", "ide", 1, "elementImElternContainer"], ["alt", "JetBrains", "src", "assets/jetbrains.png"], ["alt", "VSCode", "src", "assets/vscode.png"], ["alt", "VS", "src", "assets/vs.png"], ["data-aos", "flip-up", "data-aos-anchor-placement", "top-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", "id", "adobe", 1, "elementImElternContainer"], ["alt", "Photoshop", "src", "assets/ps.png"], ["alt", "Lightroom", "src", "assets/lr.png"], ["alt", "Premiere", "src", "assets/pr.png"], ["alt", "After Effects", "src", "assets/ae.png"], ["alt", "Adobe Xd", "src", "assets/xd.png"], ["data-aos", "flip-left", "data-aos-anchor-placement", "top-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", "id", "office", 1, "elementImElternContainer"], ["alt", "Powerpoint", "src", "assets/pp.png"], ["alt", "Word", "src", "assets/word.png"], ["data-aos", "flip-right", "data-aos-anchor-placement", "top-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", "id", "sonstige", 1, "elementImElternContainer"], ["alt", "Git", "src", "assets/git.png"], ["alt", "Github", "src", "assets/logoGithub.png"], ["alt", "Scrum", "src", "assets/scrum.png"]],
       template: function SkillsComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -4495,7 +4495,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-thumbnail"]],
       decls: 17,
       vars: 4,
-      consts: [[1, "grid"], [1, "figure1"], ["alt", "Portrait", 3, "src"], [1, "rechts"], [1, "titel"], [1, "icons"], [1, "figure"], ["alt", "Design", 3, "src"], ["alt", "Programmieren", 3, "src"], ["alt", "Webdentwicklung", 3, "src"]],
+      consts: [[1, "grid"], ["data-aos", "fade-right", "data-aos-duration", "1000", "data-aos-easing", "ease-in-out", "data-aos-mirror", "false", 1, "figure1"], ["alt", "Portrait", 3, "src"], [1, "rechts"], ["data-aos", "fade-left", "data-aos-duration", "1000", "data-aos-easing", "ease-in-out", "data-aos-mirror", "false", 1, "titel"], ["data-aos", "fade-left", "data-aos-duration", "1000", "data-aos-easing", "ease-in-out", "data-aos-mirror", "false", 1, "icons"], [1, "figure"], ["alt", "Design", 3, "src"], ["alt", "Programmieren", 3, "src"], ["alt", "Webdentwicklung", 3, "src"]],
       template: function ThumbnailComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -4745,13 +4745,23 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony import */
 
 
-    var _Components_main_page_navigation_navigation_component__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    var aos__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(
+    /*! aos */
+    "./node_modules/aos/dist/aos.js");
+    /* harmony import */
+
+
+    var aos__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(aos__WEBPACK_IMPORTED_MODULE_1__);
+    /* harmony import */
+
+
+    var _Components_main_page_navigation_navigation_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
     /*! ./Components/main-page/navigation/navigation.component */
     "./src/app/Components/main-page/navigation/navigation.component.ts");
     /* harmony import */
 
 
-    var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(
+    var _angular_router__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(
     /*! @angular/router */
     "./node_modules/@angular/router/__ivy_ngcc__/fesm2015/router.js");
 
@@ -4766,6 +4776,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         key: "onActivate",
         value: function onActivate(event) {
           window.scroll(0, 0);
+        }
+      }, {
+        key: "ngOnInit",
+        value: function ngOnInit() {
+          aos__WEBPACK_IMPORTED_MODULE_1___default.a.init();
         }
       }]);
 
@@ -4795,7 +4810,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         }
       },
-      directives: [_Components_main_page_navigation_navigation_component__WEBPACK_IMPORTED_MODULE_1__["NavigationComponent"], _angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterOutlet"]],
+      directives: [_Components_main_page_navigation_navigation_component__WEBPACK_IMPORTED_MODULE_2__["NavigationComponent"], _angular_router__WEBPACK_IMPORTED_MODULE_3__["RouterOutlet"]],
       styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2FwcC5jb21wb25lbnQuc2NzcyJ9 */"]
     });
     /*@__PURE__*/
