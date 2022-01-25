@@ -74,7 +74,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-about-me"]],
       decls: 22,
       vars: 0,
-      consts: [[1, "titel"], [1, "about-me"], ["data-aos", "zoom-out-right", "data-aos-anchor-placement", "bottom-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", 1, "bild"], ["alt", "Portrait", "src", "assets/mesmile.png"], ["data-aos", "zoom-out-left", "data-aos-anchor-placement", "bottom-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", 1, "inhalt"]],
+      consts: [[1, "titel"], [1, "about-me"], ["data-aos", "zoom-out-right", "data-aos-anchor-placement", "top-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", 1, "bild"], ["alt", "Portrait", "src", "assets/mesmile.png"], ["data-aos", "zoom-out-left", "data-aos-anchor-placement", "top-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", 1, "inhalt"]],
       template: function AboutMeComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -198,7 +198,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-kontakt"]],
       decls: 13,
       vars: 0,
-      consts: [[1, "titleKontakt"], [1, "kontaktContainer"], ["data-aos", "fade-right", "data-aos-anchor-placement", "bottom-center"], [1, "fas", "fa-envelope"], ["href", "mailto:joscha.sattler@outlook.de"], ["data-aos", "fade-left", "data-aos-anchor-placement", "bottom-center", 1, "phone"], [1, "fas", "fa-mobile-alt"]],
+      consts: [[1, "titleKontakt"], [1, "kontaktContainer"], ["data-aos", "fade-right", "data-aos-anchor-placement", "top-center"], [1, "fas", "fa-envelope"], ["href", "mailto:joscha.sattler@outlook.de"], ["data-aos", "fade-left", "data-aos-anchor-placement", "top-center", 1, "phone"], [1, "fas", "fa-mobile-alt"]],
       template: function KontaktComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);

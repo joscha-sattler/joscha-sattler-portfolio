@@ -39,7 +39,7 @@ __webpack_require__.r(__webpack_exports__);
 class AboutMeComponent {
 }
 AboutMeComponent.ɵfac = function AboutMeComponent_Factory(t) { return new (t || AboutMeComponent)(); };
-AboutMeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutMeComponent, selectors: [["app-about-me"]], decls: 22, vars: 0, consts: [[1, "titel"], [1, "about-me"], ["data-aos", "zoom-out-right", "data-aos-anchor-placement", "bottom-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", 1, "bild"], ["alt", "Portrait", "src", "assets/mesmile.png"], ["data-aos", "zoom-out-left", "data-aos-anchor-placement", "bottom-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", 1, "inhalt"]], template: function AboutMeComponent_Template(rf, ctx) { if (rf & 1) {
+AboutMeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutMeComponent, selectors: [["app-about-me"]], decls: 22, vars: 0, consts: [[1, "titel"], [1, "about-me"], ["data-aos", "zoom-out-right", "data-aos-anchor-placement", "top-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", 1, "bild"], ["alt", "Portrait", "src", "assets/mesmile.png"], ["data-aos", "zoom-out-left", "data-aos-anchor-placement", "top-center", "data-aos-delay", "50", "data-aos-duration", "500", "data-aos-easing", "ease-in-out", "data-aos-once", "false", 1, "inhalt"]], template: function AboutMeComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h1");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "About me");
@@ -99,7 +99,7 @@ class KontaktComponent {
     }
 }
 KontaktComponent.ɵfac = function KontaktComponent_Factory(t) { return new (t || KontaktComponent)(); };
-KontaktComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: KontaktComponent, selectors: [["app-kontakt"]], decls: 13, vars: 0, consts: [[1, "titleKontakt"], [1, "kontaktContainer"], ["data-aos", "fade-right", "data-aos-anchor-placement", "bottom-center"], [1, "fas", "fa-envelope"], ["href", "mailto:joscha.sattler@outlook.de"], ["data-aos", "fade-left", "data-aos-anchor-placement", "bottom-center", 1, "phone"], [1, "fas", "fa-mobile-alt"]], template: function KontaktComponent_Template(rf, ctx) { if (rf & 1) {
+KontaktComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: KontaktComponent, selectors: [["app-kontakt"]], decls: 13, vars: 0, consts: [[1, "titleKontakt"], [1, "kontaktContainer"], ["data-aos", "fade-right", "data-aos-anchor-placement", "top-center"], [1, "fas", "fa-envelope"], ["href", "mailto:joscha.sattler@outlook.de"], ["data-aos", "fade-left", "data-aos-anchor-placement", "top-center", 1, "phone"], [1, "fas", "fa-mobile-alt"]], template: function KontaktComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h1");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Kontakt");
